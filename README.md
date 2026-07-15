@@ -1,6 +1,6 @@
 # Multi-Agent Data Analyst (LangGraph + Streamlit)
 
-**Try the app:** https://multi-agent-data-pipeline-ananyaa.streamlit.app/
+**Try the app:**
 
 > Upload your datasets and get automated cleaning, validation, relationship detection, and AI-powered insights.
 
@@ -162,8 +162,6 @@ Start the Streamlit app:
 ```bash
 PYTHONPATH=. streamlit run src/app/streamlit_app.py
 ```
-
-Open in your browser: http://localhost:8501
 
 Upload 1–5 CSV or Excel files and click **Run analysis**.
 
