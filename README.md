@@ -136,8 +136,8 @@ Ingestion → Cleaning → Validation → Schema Drift → Relationships → Ana
 Clone the repository:
 
 ```bash
-git clone https://github.com/Ananyaa-Tanwar/multi-agent-data-pipeline.git
-cd multi-agent-data-pipeline
+git clone https://github.com/tonyunkeowannulack/Multi-Agent
+cd Multi-Agent
 ```
 
 Create a virtual environment:
